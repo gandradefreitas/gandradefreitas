@@ -183,7 +183,7 @@ Python · Flask · PostgreSQL · HTML · CSS · JavaScript
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/gandradefreitas)
+[LinkedIn](https://www.linkedin.com/in/gandradefreitas/) · [GitHub](https://github.com/gandradefreitas)
 
 </div>
 
